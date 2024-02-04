@@ -1,4 +1,5 @@
-module github.com/elvissilva13/goapi
+module github.com/elvissilva13/imersaoFullStack/goapi
+
 
 go 1.21.6
 

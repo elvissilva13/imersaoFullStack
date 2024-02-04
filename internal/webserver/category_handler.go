@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/elvissilva13/goapi/internal/service"
+	"github.com/elvissilva13/imersaoFullStack/goapi/internal/service"
 )
 
 type WebCategoryHandler struct {

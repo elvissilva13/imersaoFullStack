@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/elvissilva13/goapi/internal/database"
-	"github.com/elvissilva13/goapi/internal/entity"
+	"github.com/elvissilva13/imersaoFullStack/goapi/internal/database"
+	"github.com/elvissilva13/imersaoFullStack/goapi/internal/entity"
 )
 
 type CategoryService struct {
